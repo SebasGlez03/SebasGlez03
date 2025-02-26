@@ -9,11 +9,10 @@
 </div>
 
 ###
-
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV6NDduaXQ4MWhkYzdteTJzZ25qdW9kcXQxMHBqeXNoeTUyeG16ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rukjYsvK7I5OewXpG0/giphy.gif"  />
 
 ###
-
+<h2 align="left">🔭You can find me on:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
