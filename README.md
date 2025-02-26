@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Sebastian Gonzalez</h2>
-<h3 align="left">I'm a passionate full-stack developer student, from ITSON 😊</h3>
+<h3 align="left">I'm a passionate full-stack developer, currently studying a software engineer's degree 😊</h3>
 
 ###
 
