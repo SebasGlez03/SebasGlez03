@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">💡 I have skills in the following technologies:</h3>
+<h3 align="left">💡 I have experience in the following technologies:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
